@@ -15,7 +15,7 @@ print('-=' * 30)
 print(f'A lista completa é {num}')
 print(f'A lista de pares é {pares}')
 print(f'A lista de ímpares é {ímpares}')
-print('Nova linha inserida e commit feito direto do PyCharm')
+print('Esse parágrafo foi modificado pelo Visual Studio Code')
 
 # como eu implementei sozinho
 '''

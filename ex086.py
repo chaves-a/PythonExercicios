@@ -7,4 +7,3 @@ for l in range(0, 3):  # esses dois são para mostrar a estrutura na tela
     for c in range(0, 3):
         print(f'[{matriz[l][c]:^5}]', end='')
     print()  # esse print nessa posição serve para que toda vez que o último for termine as colunas, ele quebre a linha
-

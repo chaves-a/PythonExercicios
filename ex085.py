@@ -13,6 +13,7 @@ print(f'Os valores pares digitados foram: {núm[0]}')
 print(f'Os valores ímpares digitados foram: {núm[1]}')
 
 
+
 # como eu implementei sozinho... mas sei que o certo era fazer uma lista composta
 '''
 cont = 1

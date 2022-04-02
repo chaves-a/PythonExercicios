@@ -27,7 +27,7 @@ for i, l in enumerate(jogos):
 print('-=' * 5, '< BOA SORTE! >', '-=' * 5)
 
 
-# como eu tentei implementar... mas não deu certo
+# como eu tentei implementar... mas não deu certo...
 '''
 from random import randint
 jogo = []

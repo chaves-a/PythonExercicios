@@ -42,4 +42,3 @@ while True:
             print(f'    No jogo {i + 1} fez {g} gols.')
     print('-' * 40)
 print('<< VOLTE SEMPRE >>')
-

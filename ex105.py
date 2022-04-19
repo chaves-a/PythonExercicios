@@ -12,11 +12,11 @@ def notas(* n, sit=False):
     r['media'] = sum(n) / len(n)
     if sit:
         if r['media'] >= 7:
-            r['situação'] = 'BOA'
+            r['situacao'] = 'BOA'
         elif r['media'] >= 5:
-            r['situação'] = 'RAZOÁVEL'
+            r['situacao'] = 'RAZOÁVEL'
         else:
-            r['situação'] = 'RUIM'
+            r['situacao'] = 'RUIM'
     return r
 
 
